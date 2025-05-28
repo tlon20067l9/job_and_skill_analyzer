@@ -182,3 +182,4 @@ private static final String PASSWORD = "123456";
 Ứng dụng DATA JOB & SKILL ANALYZER là giải pháp trực quan, dễ sử dụng cho việc quản lý tuyển dụng và kỹ năng. Ứng dụng này phù hợp triển khai tại các doanh nghiệp vừa và nhỏ để tối ưu quy trình tuyển dụng và phân tích kỹ năng theo yêu cầu thị trường.
 
 https://github.com/tlon20067l9/job_and_skill_analyzer
+https://www.youtube.com/watch?v=YyS54lvaF_4
